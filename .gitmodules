@@ -1,0 +1,6 @@
+[submodule "redux-fundamentals"]
+	path = redux-fundamentals
+	url = https://github.com/stevekinney/redux-fundamentals.git
+[submodule "source"]
+	path = source
+	url = https://github.com/stevekinney/redux-fundamentals.git
